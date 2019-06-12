@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MessageLibrary
 {
-    public class Class1
+    public class Messanger
     {
+        public string GetHelloWorld()
+        {
+            return "Hello World!";
+        }
     }
 }

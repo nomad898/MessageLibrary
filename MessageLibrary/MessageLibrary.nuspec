@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MessageLibrary</id>
+    <version>1.0.0</version>
+    <title>MessageLibrary</title>
+    <authors>Company Ltd.</authors>
+    <owners>Amirzhan Alimov</owners>
+    <licenseUrl>https://www.website.com/terms</licenseUrl>
+    <projectUrl>https://www.website.com/project</projectUrl>
+    <iconUrl>https://www.website.com/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A description of my package</description>
+    <releaseNotes>Initial 1.0.0 release</releaseNotes>
+    <copyright>Copyright 2019 CompanyLtd</copyright>
+    <tags>Hello World</tags>
+    <dependencies>
+      <dependency id="System.Net.Http" version="4.3.0"/>
+    </dependencies>
+  </metadata>
+</package>
